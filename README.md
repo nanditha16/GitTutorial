@@ -8,4 +8,4 @@
 # git commit -m "message"
 # git commit
 # git push
-# git pulls
+# git pull
